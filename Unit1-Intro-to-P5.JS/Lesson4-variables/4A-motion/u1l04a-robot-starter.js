@@ -1,4 +1,4 @@
-// AP CSP - Unit 1, Lesson 4
+// AP CSP - Unit 1, Lesson 4A
 // Classwork: make the robot move
 
 let bulbY = 70;

@@ -1,4 +1,4 @@
-// AP CSP - Unit 1, Lesson 4
+// AP CSP - Unit 1, Lesson 4A
 // Make the rocket fall
 //
 // landerY is the tip of the nose cone.
@@ -53,12 +53,3 @@ function draw() {
 //   make it fall faster
 //   make it fall slower
 //   make it go up
-
-// ---- WHEN THAT WORKS ----
-// Add a spotlight that follows your mouse:
-//
-//   fill(255, 255, 120, 60);
-//   circle(mouseX, mouseY, 160);
-//
-// Then move those two lines to the TOP of draw().
-// Where did the spotlight go?
